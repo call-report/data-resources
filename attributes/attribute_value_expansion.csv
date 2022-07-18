@@ -1,0 +1,358 @@
+data_field,value,value_description
+auth_reg_dist_frs,0,Other/Not-Applicable
+auth_reg_dist_frs,1,Boston
+auth_reg_dist_frs,2,New York
+auth_reg_dist_frs,3,Philadelphia
+auth_reg_dist_frs,4,Cleveland
+auth_reg_dist_frs,5,Richmond
+auth_reg_dist_frs,6,Atlanta
+auth_reg_dist_frs,7,Chicago
+auth_reg_dist_frs,8,St. Louis
+auth_reg_dist_frs,9,Minneapolis
+auth_reg_dist_frs,10,Kansas City
+auth_reg_dist_frs,11,Dallas
+auth_reg_dist_frs,12,San Francisco
+dist_frs,0,Other/Not-Applicable
+dist_frs,1,Boston
+dist_frs,2,New York
+dist_frs,3,Philadelphia
+dist_frs,4,Cleveland
+dist_frs,5,Richmond
+dist_frs,6,Atlanta
+dist_frs,7,Chicago
+dist_frs,8,St. Louis
+dist_frs,9,Minneapolis
+dist_frs,10,Kansas City
+dist_frs,11,Dallas
+dist_frs,12,San Francisco
+bhc_ind,0,Not Applicable
+bhc_ind,1,Entity is a Bank Holding Company
+bhc_ind,2,Entity is not a Bank Holding Company but directly or indirectly controls a grandfathered non-bank bank
+bnk_type_analys_cd,0,Not Applicable
+bnk_type_analys_cd,1,Bankers bank subject to reserve requirements
+bnk_type_analys_cd,2,Bankers bank not subject to reserve requirements
+bnk_type_analys_cd,3,Grandfathered non-bank bank
+bnk_type_analys_cd,4,Entity is primarily conducting credit card activities
+bnk_type_analys_cd,5,Wholesale bank with commercial bank charter
+bnk_type_analys_cd,6,Standalone Internet Bank
+bnk_type_analys_cd,7,Workout entity
+bnk_type_analys_cd,8,Depository Institution National Bank
+bnk_type_analys_cd,9,Depository trust company
+bnk_type_analys_cd,10,Bridge entity
+bnk_type_analys_cd,11,Banking Edge or Agreement Corporation
+bnk_type_analys_cd,12,Investment Edge or Agreement Corporation
+bnk_type_analys_cd,13,Data processing services
+bnk_type_analys_cd,14,Trust preferred securities subsidiary
+bnk_type_analys_cd,15,Cash management banks
+bnk_type_analys_cd,16,Farm credit system institution
+bnk_type_analys_cd,17,10L Election (Bank deemed savings bank under Section 10(l) of Home Owners’ Loan Act
+bnk_type_analys_cd,18,Grandfathered Savings and Loan Holding Company
+bnk_type_analys_cd,19,Securities Holding Company
+bnk_type_analys_cd,20,Designated Financial Market Utility
+broad_reg_cd,0,Not applicable
+broad_reg_cd,1,Banks
+broad_reg_cd,2,Other depository institutions
+broad_reg_cd,3,Non-depository institutions
+broad_reg_cd,4,Inactive institution
+chtr_type_cd,0,Not applicable
+chtr_type_cd,110,Government Agency
+chtr_type_cd,200,Commercial Bank
+chtr_type_cd,250,Non-Deposit Trust Company
+chtr_type_cd,300,Savings Bank
+chtr_type_cd,310,Savings & Loan Association
+chtr_type_cd,320,Cooperative Bank
+chtr_type_cd,330,Credit Union
+chtr_type_cd,340,Industrial Bank
+chtr_type_cd,400,Edge or Agreement Corporation
+chtr_type_cd,500,Holding Company only
+chtr_type_cd,550,Insurance Broker or Agent and/or Insurance Company
+chtr_type_cd,610,Employee Stock Ownership Plan
+chtr_type_cd,700,Securities Broker and/or Dealer
+chtr_type_cd,710,Utility Company
+chtr_type_cd,720,Other Non-Depository Institution
+chtr_auth_cd,110,Government agency
+chtr_auth_cd,200,Commercial bank
+chtr_auth_cd,250,Non-deposit trust company
+chtr_auth_cd,300,Savings bank
+chtr_auth_cd,310,Savings & loan association
+chtr_auth_cd,320,Cooperative bank
+chtr_auth_cd,330,Credit union
+chtr_auth_cd,340,Industrial bank
+chtr_auth_cd,400,Edge or Agreement Corporation
+chtr_auth_cd,500,"Holding Company Only, not itself any other charter type"
+chtr_auth_cd,550,Insurance Broker or Agent and/or Insurance Company
+chtr_auth_cd,610,Employee Stock Ownership Plan/Trust
+chtr_auth_cd,700,Securities Broker and/or Dealer
+chtr_auth_cd,710,Utility Company or Electric Power Co-generator
+chtr_auth_cd,720,Other Non-Depository Institution
+cnsrvtr_cd,0,Not applicable
+cnsrvtr_cd,1,In conservatorship – RTC
+cnsrvtr_cd,2,In conservatorship – OCC
+cnsrvtr_cd,3,In conservatorship – FDIC
+cnsrvtr_cd,4,In conservatorship – State
+cnsrvtr_cd,5,In conservatorship – NCUA
+domestic_ind,N,Not a domestic bank
+domestic_ind,Y,Is domestic bank
+entity_type,AGB,Agreement Corporation – Banking
+entity_type,AGI,Agreement Corporation – Investment
+entity_type,BHC,Bank Holding Company
+entity_type,CPB,Cooperative Bank
+entity_type,DBR,Domestic Branch of a Domestic Bank
+entity_type,DEO,Domestic Entity Other
+entity_type,DPS,Data Processing Servicer
+entity_type,EBR,Edge Corporation – Domestic Branch
+entity_type,EDB,Edge Corporation – Banking
+entity_type,EDI,Edge Corporation – Investment
+entity_type,FBH,Foreign Banking Organization as a BHC
+entity_type,FBK,Foreign Banking Organization as a BHC
+entity_type,FBO,Foreign Banking Organization
+entity_type,FCU,Federal Credit Union
+entity_type,FEO,Foreign Entity Other
+entity_type,FHD,Financial Holding Company / BHC
+entity_type,FHF,Financial Holding Company / FBO
+entity_type,FNC,Finance Company
+entity_type,FSB,Federal Savings Bank
+entity_type,IBK,International Bank of a U.S. Depository – Edge or Trust Co.
+entity_type,IBR,Foreign Branch of a U.S. Bank
+entity_type,IHC,Intermediate Holding Company
+entity_type,IFB,Insured Federal Branch of an FBO
+entity_type,INB,International Non-bank Subs of Domestic Entities
+entity_type,ISB,Insured State Branch of an FBO
+entity_type,MTC,Non-Deposit Trust Company
+entity_type,NAT,National Bank
+entity_type,NMB,Non-Member Bank
+entity_type,NTC,Non-Deposit Trust Company – Non-Member
+entity_type,NYI,New York Investment Company
+entity_type,PST,Non-U.S. Branch managed by a U.S. Branch/Agency of a Foreign Bank for 002’s reporting
+entity_type,REP,Representative Office
+entity_type,SAL,Savings & Loan Association
+entity_type,SBD,Securities Broker/Dealer
+entity_type,SCU,State Credit Union
+entity_type,SLHC,Savings and Loan Holding Company
+entity_type,SMB,State Member Bank
+entity_type,SSB,State Savings Bank
+entity_type,TWG,Non-U.S. Branch managed by a U.S. Branch/Agency of a Foreign Bank for 002’s reporting
+entity_type,UFA,Uninsured Federal Agency of a Foreign Banking Organization (FBO)
+entity_type,UFB,Uninsured Federal Branch of a Foreign Banking Organization (FBO)
+entity_type,USA,Uninsured State Agency of a Foreign Banking Organization (FBO)
+entity_type,USB,Uninsured State Branch of a Foreign Banking Organization
+est_type_cd,1,Headquarters
+est_type_cd,2,Full service branch or regional office of regulatory agency
+est_type_cd,3,Limited service branch
+est_type_cd,5,Agency
+est_type_cd,6,Bank office money operation
+est_type_cd,7,Military facility
+est_type_cd,8,Super agency
+est_type_cd,9,Limited super agency
+est_type_cd,11,"Check processing center, regional or otherwise"
+est_type_cd,12,Other branch or non-independent facility
+est_type_cd,13,Loan production office
+est_type_cd,14,Representative office of a foreign bank
+est_type_cd,15,Non-U.S. Branch that is managed or controlled by a U.S. branch or agency of a foreign bank
+est_type_cd,16,Non-U.S. Branch that is managed or controlled by more than one U.S. branch or agency of a foreign bank
+est_type_cd,17,"Office, division, or branch of a non-bank entity"
+est_type_cd,18,Trust preferred securities subsidiary
+est_type_cd,19,Electronic banking
+fhc_ind,0,Not applicable
+fhc_ind,1,Entity is an financial holding company (FHC)
+fhc_ind,2,Entity is a Savings and Loan Holding Company (SHLC) which has been designated as a Financial Holding Company (FHC)
+fncl_sub_holder,0,Not applicable
+fncl_sub_holder,1,Holds one or more financial subsidiaries
+fncl_sub_holder,2,Other
+fncl_sub_ind,0,Not applicable
+fncl_sub_ind,1,Conducting expanded activities that are financial in nature
+fncl_sub_ind,2,Other
+func_reg,0,Not applicable
+func_reg,1,SEC/CFTC
+func_reg,2,SEC
+func_reg,3,State Securities Department
+func_reg,4,State Insurance Regulator
+func_reg,5,CFTC
+func_reg,6,Other
+iba_grndfthr_ind,0,Not grandfathered
+iba_grndfthr_ind,1,Grandfathered
+ibf_ind,0,Entity does not operate an International Banking Facility
+ibf_ind,1,Entity operates an IBF
+ihc_ind,0,Not applicable
+ihc_ind,1,Entity is an IHC
+insur_pri_cd,0,Not applicable
+insur_pri_cd,1,FDIC / Banking Insurance Fund
+insur_pri_cd,2,FDIC / Savings Association Insurance Fund
+insur_pri_cd,3,National Credit Union Share Insurance Fund
+insur_pri_cd,4,State
+insur_pri_cd,5,Other
+insur_pri_cd,6,FDIC/BIF and FDIC/SAIF
+insur_pri_cd,7,Deposit Insurance Fund
+mbr_fhlbs_ind,0,Not a member
+mbr_fhlbs_ind,1,Member
+mbr_frs_ind,0,Not a member
+mbr_frs_ind,1,Member
+mjr_own_mnrty,0,Not applicable
+mjr_own_mnrty,1,African American
+mjr_own_mnrty,5,Caucasian Women
+mjr_own_mnrty,10,Hispanic
+mjr_own_mnrty,20,Asian American
+mjr_own_mnrty,30,Native American
+mjr_own_mnrty,35,Eskimo
+mjr_own_mnrty,37,Aleuts
+mjr_own_mnrty,39,Low Income Credit Union
+mjr_own_mnrty,99,Other Minorities
+org_type_cd,0,Not applicable
+org_type_cd,1,Corporation
+org_type_cd,2,General Partnership
+org_type_cd,3,Limited Partnership
+org_type_cd,4,Business Trust
+org_type_cd,5,Sole Proprietorship
+org_type_cd,6,Mutual
+org_type_cd,9,Cooperative
+org_type_cd,10,LLP
+org_type_cd,11,LLC/C
+org_type_cd,12,Estate Trust
+org_type_cd,13,Limited Liability Limited Partnership
+org_type_cd,99,Other
+prim_fed_reg,FCA,Farm Credit Administration
+prim_fed_reg,FDIC,Federal Deposit Insurance Corporation
+prim_fed_reg,FHFA,Federal Housing Finance Agency
+prim_fed_reg,FRS,Federal Reserve System
+prim_fed_reg,NCUA,National Credit Union Administration
+prim_fed_reg,OCC,Office of the Comptroller of the Currency
+prim_fed_reg,OTS,Office of Thrift Supervision
+reason_term_cd,0,Not applicable / Entity exists
+reason_term_cd,1,Voluntary liquidation
+reason_term_cd,2,Closure
+reason_term_cd,3,Entity is either inactive or no longer regulated by the Federal Reserve
+reason_term_cd,4,"Failure, entity continues to exist"
+reason_term_cd,5,"Failure, entity ceases to exist"
+sec_rptg_status,0,Not applicable
+sec_rptg_status,1,Registered with the SEC
+sec_rptg_status,2,Not registered with the SEC
+sec_rptg_status,3,Subject to section 13(a) or 15(d) of the Securities Exchange Act of 1934 and section 404 of the Sarbanes-Oxley Act of 2002
+sec_rptg_status,4,Subject to section 13(a) or 15(d) of the Securities Exchange Act of 1934 and NOT section 404 of the Sarbanes-Oxley Act of 2002 
+sec_rptg_status,5, Terminated or suspended its reporting requirements under section 13(a) or 15(d) of the Securities Exchange Act of 1934 
+slhc_ind,0,Not applicable
+slhc_ind,1,Entity is a savings and loan holding company
+slhc_type_ind,0,Not applicable
+slhc_type_ind,1,Entity is a Home Owners Loan Act Mutual Holding Company that holds a savings bank that has made a 10L election to be treated as a thrift
+slhc_type_ind,2,Entity is a Home Owners Loan Act Stock Holding Company that holds a savings bank that has made a 10L election to be treated as a thrift
+slhc_type_ind,3,Entity is a Mutual Holding Company (non- Home Owners Loan Act) that holds a savings association
+slhc_type_ind,4,\Entity is a Stock Holding Company (non- Home Owners Loan Act) that holds a savings association
+slhc_type_ind,5,Entity is a Trust (family or estate) Holding Company. These entities are registered savings and loan holding companies.
+state_abbr_nm,0,Not applicable
+state_abbr_nm,AK,Alaska
+state_abbr_nm,AL,Alabama
+state_abbr_nm,AR,Arkansas
+state_abbr_nm,AS,American Samoa
+state_abbr_nm,AZ,Arizona
+state_abbr_nm,CA,California
+state_abbr_nm,CO,Colorado
+state_abbr_nm,CT,Connecticut
+state_abbr_nm,DC,District of Columbia
+state_abbr_nm,DE,Delaware
+state_abbr_nm,FL,Florida
+state_abbr_nm,FM,Federal States of Micronesia
+state_abbr_nm,GA,Georgia
+state_abbr_nm,GU,Guam
+state_abbr_nm,HI,Hawaii
+state_abbr_nm,IA,Iowa
+state_abbr_nm,ID,Idaho
+state_abbr_nm,IL,Illinois
+state_abbr_nm,IN,Indiana
+state_abbr_nm,KS,Kansas City
+state_abbr_nm,KY,Kentucky
+state_abbr_nm,LA,Louisiana
+state_abbr_nm,MA,Massachusetts
+state_abbr_nm,MD,Maryland
+state_abbr_nm,ME,Maine
+state_abbr_nm,MI,Michigan
+state_abbr_nm,MN,Minnesota
+state_abbr_nm,MO,Missouri
+state_abbr_nm,MP,Northern Marianas Islands
+state_abbr_nm,MQ,Midway Islands
+state_abbr_nm,MS,Mississippi
+state_abbr_nm,MT,Montana
+state_abbr_nm,NC,North Carolina
+state_abbr_nm,ND,North Dakota
+state_abbr_nm,NE,Nebraska
+state_abbr_nm,NH,New Hampshire
+state_abbr_nm,NJ,New Jersey
+state_abbr_nm,NM,New Mexico
+state_abbr_nm,NV,Nevada
+state_abbr_nm,NY,New York
+state_abbr_nm,OH,Ohio
+state_abbr_nm,OK,Oklahoma
+state_abbr_nm,OR,Oregon
+state_abbr_nm,PA,Pennsylvania
+state_abbr_nm,PR,Puerto Rico
+state_abbr_nm,PW,Palau
+state_abbr_nm,RI,Rhode Island
+state_abbr_nm,SC,South Carolina
+state_abbr_nm,SD,South Dakota
+state_abbr_nm,TN,Tennessee
+state_abbr_nm,TX,Texas
+state_abbr_nm,UT,Utah
+state_abbr_nm,VA,Virginia
+state_abbr_nm,VI,U.S. Virgin Islands
+state_abbr_nm,VT,Vermont
+state_abbr_nm,WA,Washington
+state_abbr_nm,WI,Wisconsin
+state_abbr_nm,WV,West Virginia
+state_abbr_nm,WY,Wyoming
+state_inc_abbr_nm,AK,Alaska
+state_inc_abbr_nm,AL,Alabama
+state_inc_abbr_nm,AR,Arkansas
+state_inc_abbr_nm,AS,American Samoa
+state_inc_abbr_nm,AZ,Arizona
+state_inc_abbr_nm,CA,California
+state_inc_abbr_nm,CO,Colorado
+state_inc_abbr_nm,CT,Connecticut
+state_inc_abbr_nm,DC,District of Columbia
+state_inc_abbr_nm,DE,Delaware
+state_inc_abbr_nm,FL,Florida
+state_inc_abbr_nm,FM,Federal States of Micronesia
+state_inc_abbr_nm,GA,Georgia
+state_inc_abbr_nm,GU,Guam
+state_inc_abbr_nm,HI,Hawaii
+state_inc_abbr_nm,IA,Iowa
+state_inc_abbr_nm,ID,Idaho
+state_inc_abbr_nm,IL,Illinois
+state_inc_abbr_nm,IN,Indiana
+state_inc_abbr_nm,KS,Kansas City
+state_inc_abbr_nm,KY,Kentucky
+state_inc_abbr_nm,LA,Louisiana
+state_inc_abbr_nm,MA,Massachusetts
+state_inc_abbr_nm,MD,Maryland
+state_inc_abbr_nm,ME,Maine
+state_inc_abbr_nm,MI,Michigan
+state_inc_abbr_nm,MN,Minnesota
+state_inc_abbr_nm,MO,Missouri
+state_inc_abbr_nm,MP,Northern Marianas Islands
+state_inc_abbr_nm,MQ,Midway Islands
+state_inc_abbr_nm,MS,Mississippi
+state_inc_abbr_nm,MT,Montana
+state_inc_abbr_nm,NC,North Carolina
+state_inc_abbr_nm,ND,North Dakota
+state_inc_abbr_nm,NE,Nebraska
+state_inc_abbr_nm,NH,New Hampshire
+state_inc_abbr_nm,NJ,New Jersey
+state_inc_abbr_nm,NM,New Mexico
+state_inc_abbr_nm,NV,Nevada
+state_inc_abbr_nm,NY,New York
+state_inc_abbr_nm,OH,Ohio
+state_inc_abbr_nm,OK,Oklahoma
+state_inc_abbr_nm,OR,Oregon
+state_inc_abbr_nm,PA,Pennsylvania
+state_inc_abbr_nm,PR,Puerto Rico
+state_inc_abbr_nm,PW,Palau
+state_inc_abbr_nm,RI,Rhode Island
+state_inc_abbr_nm,SC,South Carolina
+state_inc_abbr_nm,SD,South Dakota
+state_inc_abbr_nm,TN,Tennessee
+state_inc_abbr_nm,TX,Texas
+state_inc_abbr_nm,UT,Utah
+state_inc_abbr_nm,VA,Virginia
+state_inc_abbr_nm,VI,U.S. Virgin Islands
+state_inc_abbr_nm,VT,Vermont
+state_inc_abbr_nm,WA,Washington
+state_inc_abbr_nm,WI,Wisconsin
+state_inc_abbr_nm,WV,West Virginia
+state_inc_abbr_nm,WY,Wyoming
