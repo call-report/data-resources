@@ -1,6 +1,6 @@
 # Data Resources for Analyzing US Bank Regulatory Data
 
-## Federal Reserve Attribute File (until 2019)
+## Complete Federal Reserve Attribute File (until 12/31/2019)
 Location: [`attributes/all_attributes_until_20191231.tar.xz`](https://github.com/call-report/data-resources/raw/main/attributes/all_attributes_until_20191231.tar.xz)
 
 ### How to extract
